@@ -7,6 +7,7 @@ package com.solid.isp;
  * Instead of having a big fat interface there is a segregation on behaviour's
  * 
  * Only related behaviour's needs to be combined in an interface
+ * Try to keep the interface as small as possible, only combine related behaviour
  * 
  * 
  * */
