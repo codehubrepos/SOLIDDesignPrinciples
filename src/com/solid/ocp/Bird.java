@@ -13,7 +13,7 @@ package com.solid.ocp;
  * an exception for the Birds who don't inhibit fly or dance behaviour.
  * i.e. we are bound to inherit the behaviour like fly/dance which a particular bird does not performs
  * 
- * This implementation needs further refinement
+ * This implementation needs further refinement, also it voilates LSP i.e. Liskov's Substitution Principle
  * 
  * */
 public abstract class Bird {
