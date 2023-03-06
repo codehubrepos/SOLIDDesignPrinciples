@@ -4,7 +4,7 @@ package com.solid.ocp;
 /**
  * 
  * Open Closed Principle - OCP is being followed here
- * The Bird class is open for extension
+ * The Bird class can be considered as open for extension and closed for any modification.
  * Any requirement for new Bird Type coming in future can be taken care via new class extends the Bird class
  * 
  * 
