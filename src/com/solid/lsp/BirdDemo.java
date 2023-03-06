@@ -3,7 +3,7 @@ package com.solid.lsp;
 
 /**
  * 
- * Liskov's Substitution Principle - OCP is not being followed here
+ * Liskov's Substitution Principle - LSP is not being followed here
  * The Child class Object can not be directly substituted with a reference of Parent class type for invocation of all methods.
  * In order to call some treatment needs to be given, loke exception handling in below example
  * 
